@@ -3,8 +3,6 @@
 ###       --->🏫学校专业: 浙江理工大学本科-机器人工程专业🤖
 ###       --->🧑‍身体状况: 目前头发还很茂密
 ###       --->🌱兴趣爱好:| 🦾机甲大师 | 🛩️FPV穿越机 | 🎛️合成器音乐 | 🛹滑板 |
-###
-### 🛠️Development:
 ###       ---> 🔭开发方向: | 嵌入式开发 | 机器人建模与控制 | 
 ###       ---> 🧑‍🔧常用工具：| Keil MDK/C51 | Cube MX | VisualStudio Code| ROS | Solidworks | LECEDA Pro | MATLAB | Betaflight |                  
 ###       ---> ⌨️编程语言：| C | c++ | Python | MATLAB |
