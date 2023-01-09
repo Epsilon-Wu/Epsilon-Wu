@@ -5,7 +5,7 @@
 ###       --->🌱兴趣爱好:| 🦾机甲大师 | 🛩️FPV穿越机 | 🎛️合成器音乐 | 🛹滑板 |
 ###       ---> 🔭开发方向: | ⌨️嵌入式开发 | 🤖机器人建模与控制 | 
 ###       ---> 🧑‍🔧常用工具：| Keil MDK/C51 | Cube MX | VisualStudio Code | Solidworks | MATLAB |                
-###       ---> ⌨️编程语言：| C | c++ | Python | MATLAB |
+###       ---> ⌨️编程语言：| C | C++ | Python | MATLAB |
 ###       ---> 🎚️开发硬件: | STM32 | 8051 | ESP32 | Arduino | Jetson TX2 | Open MV |
 ###               
 ### 📫 How to reach me: 浙江理工大学教学楼15号楼609室
